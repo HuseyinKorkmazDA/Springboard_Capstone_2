@@ -2,7 +2,7 @@
 This project is a part of the Springboard Capstone-2.
 
 # Business Problem
-How can BlueStone Realty Inc. increase the revenue by at least 16% in 5 months by analyzing the effect of house remodeling on the sale price and implementing predictive analytics?
+## How can BlueStone Realty Inc. increase the revenue by at least 16% in 5 months by analyzing the effect of house remodeling on the sale price and implementing predictive analytics?
 
 (According to our scenario) BlueStone Realty Inc. is a realtor company that has a large business in Ames, Iowa. During July 2010, BlueStone Realty Inc. takes notice that the actual revenue is 4,000,000 Dollars less than the budget revenue.
 There are 1459 houses in the current market. The company has a budget of 25,000,000 Dollars to buy-sell houses for the rest of the year of 2010. BlueStone Realty Inc. wants to
