@@ -21,4 +21,4 @@ Our main aim is to identify the revenue opportunities when we remodel the houses
 
 3) Business Intelligence Analysis: We will implement the predictive model on the test data (that shows 1459 houses in the current market) to help BlueStone Realty Inc. to make more data-driven decisions.
 
-Data sources: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Data Source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
